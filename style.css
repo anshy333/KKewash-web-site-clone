@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Barlow", sans-serif;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .geen-line{
@@ -1050,6 +1050,83 @@ footer{
         width: 300px;
         height: 300px;
     }
+
+    /* gg */
+
+
+
+    .sec-c{
+        width: 100%;
+        height: auto;
+    }
+
+    .sec-c-cards{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* gg */
+
+
+    .sec-d{
+        width: 100%;
+        height: auto;
+    }
+
+    .sec-d-cards{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* gg */
+
+    .sec-e{
+        width: 100%;
+        height: auto;
+    }
+
+    .sec-e-cards{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* gg */
+
+
+    .contact-us-parent{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        justify-content: end;
+        gap: 50px;
+    }
+
+    .input-div{
+        width: 100%;
+        height: auto;
+    }
+    /* gg */
+
+    footer{
+        width: 100%;
+        height: auto;
+    }
+
+    .footer-left{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+    }
+
+
+
+
 
     
 }
